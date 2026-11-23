@@ -76,10 +76,8 @@ Everything passes as you receive it, except two tests in `api/internal/app/creat
 
 ## Submit
 
-Fill in `NOTES.md`, then email your solution to **submissions@magdox.io** with **careers@magdox.io** in cc:
-
-- a zip of the whole folder, with the `.git` folder so we can see your commits and without `node_modules`; or
-- a link to a private repository, and we will tell you which account to give access.
+Fill in `NOTES.md`, then email a zip of the whole folder to **submissions@magdox.io** with
+**careers@magdox.io** in cc. Include the `.git` folder so we can see your commits, and leave out `node_modules`.
 
 Use the subject `Devshelf task: your name`.
 
